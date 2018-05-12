@@ -1,0 +1,30 @@
+_repo: James-Fenimore-CooperAmerican-Men-of-Letters_19463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lounsbury, Thomas Raynesford
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '8694'
+    url: http://www.gutenberg.org/2009/agents/8694
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Lounsbury
+description: ''
+gutenberg_issued: '2006-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooper, James Fenimore, 1789-1851'
+- !lcc 'PS'
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+title: 'James Fenimore Cooper
+
+  American Men of Letters'
+url: http://www.gutenberg.org/ebooks/19463
