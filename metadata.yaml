@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8694
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Lounsbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19463#James-Fenimore-CooperAmerican-Men-of-Letters
 gutenberg_issued: '2006-10-04'
 gutenberg_type: Text
 identifiers:
